@@ -1,7 +1,7 @@
 {
   "name": "@68publishers/cookie-consent-resolver",
   "author": "68publishers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Inject scripts without waiting for the cookies widget to load!",
   "private": false,
   "homepage": "http://www.68publishers.io/",
